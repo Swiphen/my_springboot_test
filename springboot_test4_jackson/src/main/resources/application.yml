@@ -1,0 +1,8 @@
+server:
+  port: 8090
+spring:
+  freemarker:
+    suffix: .ftl
+  http:
+    encoding:
+      force-response: true

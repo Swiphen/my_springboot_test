@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springboot_test5_fileUpload" />
+        <module name="springboot_test12_aop" />
+        <module name="springboot_test8_config" />
+        <module name="springboot_test10_runner" />
+        <module name="springboot_test16_sessionShare" />
+        <module name="springboot_test15_redis" />
+        <module name="springboot_test1" />
+        <module name="springboot_test7_cors" />
+        <module name="springboot_test14_mybatis" />
+        <module name="springboot_test11_servlet" />
+        <module name="springboot_test2_thymeleaf" />
+        <module name="springboot_test9_interceptor" />
+        <module name="springboot_test3_freemarker" />
+        <module name="springboot_test17_restful" />
+        <module name="springboot_test4_jackson" />
+        <module name="springboot_test13_jdbcTemplate" />
+        <module name="springboot_test6_error" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="10" />
+  </component>
+</project>

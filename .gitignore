@@ -1,0 +1,18 @@
+# Project exclude paths
+/springboot_test1/target/
+/springboot_test2_thymeleaf/target/
+/springboot_test3_freemarker/target/
+/springboot_test4_jackson/target/
+/springboot_test5_fileUpload/target/
+/springboot_test6_error/target/
+/springboot_test7_cors/target/
+/springboot_test8_config/target/
+/springboot_test9_interceptor/target/
+/springboot_test10_runner/target/
+/springboot_test11_servlet/target/
+/springboot_test12_aop/target/
+/springboot_test13_jdbcTemplate/target/
+/springboot_test14_mybatis/target/
+/springboot_test15_redis/target/
+/springboot_test16_sessionShare/target/
+/springboot_test17_restful/target/

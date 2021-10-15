@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <title>图书列表</title>
+</head>
+<body>
+<div>
+    <table border="1">
+        <tr>
+            <td>图书编号</td>
+            <td>图书名称</td>
+            <td>图书作者</td>
+        </tr>
+        <tr th:each="books:${books}">
+            <td th:text="${books.id}"></td>
+            <td th:text="${books.name}"></td>
+            <td th:text="${books.author}"></td>
+        </tr>
+    </table>
+</div>
+</body>
+</html>

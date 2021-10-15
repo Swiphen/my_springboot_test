@@ -1,0 +1,21 @@
+server:
+  port: 8088
+laida:
+  name: 路过的卡面来打2
+  author: 王小明
+  price: 66.6
+
+my:
+  users:
+    - name: 小明
+      address: 东莞
+      favorites:
+        - 足球
+        - 爬山
+        - 钢琴
+    - name: 小红
+      address: 深圳
+      favorites:
+        - 旅行
+        - 看剧
+        - 睡觉
